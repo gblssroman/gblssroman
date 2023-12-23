@@ -1,4 +1,4 @@
-<img src="https://github.com/gblssroman/gblssroman/blob/main/header.png" alt="gblssroman@github:~$ hello there!">
+<img src="https://github.com/gblssroman/gblssroman/blob/main/git_header.png" alt="gblssroman@github:~$ hello there!">
 
 ### Hi there 👋
 
