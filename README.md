@@ -1,6 +1,7 @@
-### <pre>*gblssroman@github:~$>* 👋 howdy!</pre>
+### <pre>*gblssroman@github:~$>* <br>👋 hi!</pre>
 
-### 🧑🏽‍💻 I'm Roman: <br>A machine learning student with a background in ITSec, based in Moscow, Russia. <br>I'm interested in deep learning involving NLP and CV.
+### 🧑🏽‍💻 I'm Roman: <br>
+A machine learning student with a background in ITSec, based in Moscow, Russia. <br>I'm interested in deep learning involving NLP and CV.
 ### <br>🔧 My tech stack
 #### Languages & technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
