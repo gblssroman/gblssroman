@@ -1,8 +1,8 @@
 ### <pre>*gblssroman@github:~$>* 👋 howdy!</pre>
 
-### 🧑🏽‍💻 I'm Roman: <br>// A machine learning student with a background in ITSec, based in Moscow, Russia. <br>I'm interested in deep learning involving NLP and CV.
+### 🧑🏽‍💻 I'm Roman: <br>A machine learning student with a background in ITSec, based in Moscow, Russia. <br>I'm interested in deep learning involving NLP and CV.
 ### <br>🔧 My tech stack
-#### // Languages & technologies
+#### Languages & technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -21,7 +21,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Bash&Windows CMD](https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-#### <br>// Things I'm mastering better now 
+#### <br>Things I'm mastering better now 
 ![NLP](https://img.shields.io/badge/NLP-47A141?style=for-the-badge)
 ![Deep learning](https://img.shields.io/badge/Deep_learning-47A141?style=for-the-badge)
 ![Computer vision](https://img.shields.io/badge/Computer_vision-47A141?style=for-the-badge)<br>
@@ -32,7 +32,7 @@
 ![LLMs](https://img.shields.io/badge/LLMs-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
-#### <br>// Misc skills
+#### <br>Misc skills
 ![English C1](https://img.shields.io/badge/English_C1-27338E?style=for-the-badge)
 ![Information security](https://img.shields.io/badge/Information_security-27338E?style=for-the-badge)<br>
 ![Theory of Probability](https://img.shields.io/badge/Theory_of_Probability-27338E?style=for-the-badge)
@@ -45,6 +45,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <br>
 ### <br>👨🏽‍🎓 Experience
+* Prizewinner of ML Talent MSU Hack
 * Prizewinner of VK & HSE ML Hack (captain)
 * Solar (Rostelecom) ITSec internship graduate 2023
 * HSE NLP Course (First & Second Steps)
@@ -52,7 +53,7 @@
 * 5+ years of working with VPS (Linux) and websites
 
 
-### <pre>*gblssroman@github:~$> check out my latest projects! <br>feel free to contact me at <a href="mailto:roman@stoody.ru">roman@stoody.ru</a>*</pre>
+### <pre>*gblssroman@github:~$> <br>feel free to contact me at <a href="mailto:roman@stoody.ru">roman@stoody.ru</a>*</pre>
 
 
 
