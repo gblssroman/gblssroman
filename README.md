@@ -54,7 +54,7 @@ A machine learning student with a background in ITSec, based in Moscow, Russia. 
 * 5+ years of working with VPS (Linux) and websites
 
 
-### <pre>*gblssroman@github:~$> <br>feel free to contact me at <a href="mailto:roman@stoody.ru">roman@stoody.ru</a>*</pre>
+### <pre>*gblssroman@github:~$> <br>feel free to contact me<br>at <a href="mailto:roman@stoody.ru">roman@stoody.ru</a>*</pre>
 
 
 
