@@ -50,7 +50,7 @@ A machine learning student with a background in ITSec, based in Moscow, Russia. 
 * Prizewinner of VK & HSE ML Hack (captain)
 * Solar (Rostelecom) ITSec internship graduate 2023
 * HSE NLP Course (First & Second Steps)
-* Applied Maths & IT (ML) Student till 2026
+* Applied Maths & IT (ML) Student, Financial University
 * 5+ years of working with VPS (Linux) and websites
 
 
